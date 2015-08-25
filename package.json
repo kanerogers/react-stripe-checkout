@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/azmenak/react-stripe-checkout",
   "dependencies": {
-    "react-script-loader": "0.0.1"
+    "react-script-loader": "marciovicente/ReactScriptLoader"
   },
   "devDependencies": {
     "babel": "^5.6.23",
